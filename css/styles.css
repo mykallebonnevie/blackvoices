@@ -3285,6 +3285,8 @@ figcaption {
   padding-right: 0;
 }
 
+/* FinSweet Style Guide Classes */
+
 .fs-styleguide_heading-header {
   font-size: 6rem;
 }
@@ -4132,6 +4134,8 @@ figcaption {
   margin-left: 0;
   margin-right: 0;
 }
+
+/* My Styles for Black Voices */
 
 .hero_container {
   grid-column-gap: 16px;
